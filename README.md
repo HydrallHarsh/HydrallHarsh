@@ -1,5 +1,21 @@
-# 💫 About Me:
-Hi there, I'm Harsh Santwani 👋<br><br>🔭 I’m currently working on:<br>Improving my skills in AI and machine learning through real-world projects.<br>Building web and mobile applications to solve practical problems.<br><br>👥 I’m looking to collaborate on:<br>AI and machine learning projects, especially those involving real-world applications of predictive modeling.<br>Full-stack web development projects that require backend and data management solutions.<br><br>🤝 I’m looking for help with:<br>Diving deeper into advanced topics in machine learning and AI, including generative AI and large language models.<br>Improving my programming skills on platforms like LeetCode and CodeForces.<br><br>🌱 I’m currently learning:<br>Advanced machine learning techniques, with a focus on Python libraries like Scikit-learn and data handling with Pandas and Numpy.<br>Backend Development with Django , Django-Rest<br><br>
+# Hi there, I'm Harsh Santwani! 👋  
+
+🎯 **Currently Working On:**  
+- Enhancing my skills in **AI and machine learning** through real-world projects.  
+- Building **web and mobile applications** to solve practical problems.  
+
+🤝 **Looking to Collaborate On:**  
+- **AI and machine learning projects**, especially those applying predictive modeling to real-world scenarios.  
+- **Full-stack web development** projects requiring robust backend and data management solutions.  
+
+💡 **Seeking Help With:**  
+- Exploring advanced topics in **machine learning and AI**, including **generative AI** and **large language models**.  
+- Sharpening my programming skills on competitive platforms like **LeetCode** and **CodeForces**.  
+
+🌱 **Currently Learning:**  
+- Advanced machine learning techniques, utilizing Python libraries like **Scikit-learn**, **Pandas**, and **NumPy**.  
+- **Backend Development** with **Django** and **Django REST Framework**.  
+
 
 
 ## 🌐 Socials:
