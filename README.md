@@ -1,18 +1,18 @@
 # Hi there, I'm Harsh Santwani! 👋  
 
-### 🎯 **Currently Working On:**  
+#### 🎯 **Currently Working On:**  
 - Enhancing my skills in **AI and machine learning** through real-world projects.  
 - Building **web and mobile applications** to solve practical problems.  
 
-### 🤝 **Looking to Collaborate On:**  
+#### 🤝 **Looking to Collaborate On:**  
 - **AI and machine learning projects**, especially those applying predictive modeling to real-world scenarios.  
 - **Full-stack web development** projects requiring robust backend and data management solutions.  
 
-### 💡 **Seeking Help With:**  
+#### 💡 **Seeking Help With:**  
 - Exploring advanced topics in **machine learning and AI**, including **generative AI** and **large language models**.  
 - Sharpening my programming skills on competitive platforms like **LeetCode** and **CodeForces**.  
 
-### 🌱 **Currently Learning:**  
+#### 🌱 **Currently Learning:**  
 - Advanced machine learning techniques, utilizing Python libraries like **Scikit-learn**, **Pandas**, and **NumPy**.  
 - **Backend Development** with **Django** and **Django REST Framework**.  
 
