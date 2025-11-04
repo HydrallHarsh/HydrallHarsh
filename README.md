@@ -28,10 +28,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HydrallHarsh&theme=dark&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=HydrallHarsh&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @harsh_0303's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh_0303)](https://holopin.io/@harsh_0303)
