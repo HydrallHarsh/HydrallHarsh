@@ -2,7 +2,7 @@ Full-stack + AI/ML engineer. I build agentic systems, security tooling, and RAG 
 
 **Focus:** AI agents · ML pipelines · full-stack apps
 
-## Featured Projects
+## Projects
 
 **[AI-Dictionary](https://github.com/recent-ai/Ai-Dictionary)** — Automated AI news & knowledge platform. Next.js + FastAPI + LangGraph pipeline that scrapes, summarizes, and publishes AI content end to end. Built the frontend, auth, Supabase data layer, blog rendering, and automation workflows. 
 
